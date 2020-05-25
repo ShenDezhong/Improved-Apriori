@@ -1,0 +1,20 @@
+Read me
+
+This folder contains 4 files. Two java files for the program. One cvs file is the data. The other one is this “Read me.txt”.
+
+How to compile this program:
+
+You can use eclipse or other java app to compile this program(“ImprovedIP.java” is the main java file).
+Or you can compile it via ssh.
+
+How to compile via ssh:
+
+1. Use bluenose to load all these files.
+2. Use these commands to compile it:
+   javac ImprovedIP.java
+   javac getitemset.java
+   java ImprovedIP
+3. After you entering the support and the confidence, you will get a file which name is “Result.txt”. You can see all your results in that file.
+
+
+Thank you.
