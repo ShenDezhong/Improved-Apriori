@@ -1,0 +1,103 @@
+Total running time: 1447ms
+
+
+Min-support: 0.2
+Min-confidence: 0.6
+
+olives = 0.476
+bourbon = 0.411
+coke = 0.297
+turkey = 0.286
+ice_crea = 0.318
+ham = 0.307
+baguette = 0.392
+hering = 0.488
+corned_b = 0.391
+peppers = 0.302
+sardines = 0.298
+apples = 0.318
+avocado = 0.367
+soda = 0.319
+cracker = 0.489
+heineken = 0.602
+artichok = 0.311
+steak = 0.237
+chicken = 0.317
+olives bourbon = 0.246
+olives turkey = 0.221
+olives hering = 0.258
+olives corned_b = 0.238
+olives heineken = 0.205
+bourbon cracker = 0.239
+bourbon heineken = 0.212
+coke ice_crea = 0.22
+baguette hering = 0.249
+baguette avocado = 0.215
+baguette heineken = 0.261
+hering corned_b = 0.245
+hering cracker = 0.202
+hering heineken = 0.29
+avocado heineken = 0.252
+avocado artichok = 0.211
+soda cracker = 0.251
+soda heineken = 0.257
+cracker heineken = 0.367
+heineken artichok = 0.252
+heineken chicken = 0.201
+hering olives corned_b = 0.202
+hering baguette heineken = 0.214
+cracker soda heineken = 0.234
+
+
+Rules:
+
+turkey => olives 
+Confidence: 0.7727272727272727
+corned_b => olives 
+Confidence: 0.6086956521739131
+coke => ice_crea 
+Confidence: 0.7407407407407407
+ice_crea => coke 
+Confidence: 0.6918238993710691
+baguette => hering 
+Confidence: 0.6352040816326531
+baguette => heineken 
+Confidence: 0.6658163265306123
+corned_b => hering 
+Confidence: 0.6265984654731458
+avocado => heineken 
+Confidence: 0.6866485013623979
+artichok => avocado 
+Confidence: 0.6784565916398714
+soda => cracker 
+Confidence: 0.786833855799373
+soda => heineken 
+Confidence: 0.8056426332288401
+cracker => heineken 
+Confidence: 0.7505112474437627
+heineken => cracker 
+Confidence: 0.6096345514950167
+artichok => heineken 
+Confidence: 0.8102893890675241
+chicken => heineken 
+Confidence: 0.6340694006309149
+olives hering => corned_b 
+Confidence: 0.7829457364341085
+olives corned_b => hering 
+Confidence: 0.8487394957983193
+hering corned_b => olives 
+Confidence: 0.8244897959183674
+baguette hering => heineken 
+Confidence: 0.8594377510040161
+baguette heineken => hering 
+Confidence: 0.8199233716475096
+hering heineken => baguette 
+Confidence: 0.7379310344827587
+soda => cracker heineken 
+Confidence: 0.7335423197492164
+soda cracker => heineken 
+Confidence: 0.9322709163346613
+soda heineken => cracker 
+Confidence: 0.9105058365758755
+cracker heineken => soda 
+Confidence: 0.6376021798365122
